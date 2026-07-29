@@ -185,7 +185,7 @@ The simulation was used to:
 
 ## Simulation Link
 
-🔗 https://app.tinkered.ai/
+🔗 https://app.tinkered.ai/p/b1c0b35a-e734-4411-82c9-bbb5635e4397
 
 ---
 
@@ -279,11 +279,5 @@ Through this project, I gained practical experience in:
 - Improve measurement stability using filtering techniques.
 
 ---
-
-# Author
-
-**Ahlam Althobaiti**
-
-Computer Engineering Student
 
 Taif University
