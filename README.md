@@ -222,11 +222,11 @@ The following image shows the complete simulation created using **Tinkered AI**.
 The following image shows the complete wiring connection between Arduino Uno, HC-SR04 ultrasonic sensor, and SG90 servo motor.
 
 <p align="center">
-  <img src="Circuit Diagram1.png" alt="Circuit Diagram" width="700">
+  <img src="Circuit Diagram1.jpg" alt="Circuit Diagram" width="700">
 </p>
 
 <p align="center">
-  <img src="Circuit Diagram2.png" alt="Circuit Diagram" width="700">
+  <img src="Circuit Diagram2.jpg" alt="Circuit Diagram" width="700">
 </p>
 
 ---
