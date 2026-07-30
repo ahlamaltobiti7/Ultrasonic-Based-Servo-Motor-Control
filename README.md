@@ -237,8 +237,7 @@ The following image shows the complete wiring connection between Arduino Uno, HC
 
 This video demonstrates the first test configuration. The servo rotates to **90°** when an object is detected within **10 cm**, then returns to **0°** when the object moves away.
 
-🎥 ### Configuration 1
-<video src="Configuration1.MOV" controls="controls" width="100%"></video>
+🎥 * [مشاهدة Configuration1.MOV](Configuration1.MOV)
 
 ---
 
