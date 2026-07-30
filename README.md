@@ -250,18 +250,6 @@ This video demonstrates the second test configuration. The servo rotates to **18
 
 ---
 
-# Project Structure
-
-```
-Ultrasonic-Servo-Control/
-│
-├── UltrasonicServo_Control.ino
-├── README.md
-├── Simulation.png
-├── Circuit.png
-├── Configuration1.mp4
-└── Configuration2.mp4
-```
 
 ---
 
