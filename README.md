@@ -212,7 +212,7 @@ The simulation was used to:
 The following image shows the complete simulation created using **Tinkered AI**.
 
 <p align="center">
-  <img src="Simulation.png" alt="Tinkered AI Simulation" width="800">
+  <img src="Tinkered AI Simulation.png" alt="Tinkered AI Simulation" width="800">
 </p>
 
 ---
@@ -222,7 +222,11 @@ The following image shows the complete simulation created using **Tinkered AI**.
 The following image shows the complete wiring connection between Arduino Uno, HC-SR04 ultrasonic sensor, and SG90 servo motor.
 
 <p align="center">
-  <img src="Circuit.png" alt="Circuit Diagram" width="700">
+  <img src="Circuit Diagram1.png" alt="Circuit Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="Circuit Diagram2.png" alt="Circuit Diagram" width="700">
 </p>
 
 ---
@@ -296,6 +300,3 @@ Through this project, I gained practical experience in:
 - Improve distance stability using filtering techniques.
 
 ---
-Computer Engineering Student
-
-Taif University
